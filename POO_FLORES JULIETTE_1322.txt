@@ -1,0 +1,20 @@
+Informe del control de lectura 1
+Estudiante: Juliette Flores
+NRC:1322
+Este informe nos permite dar a conocer los pasos que seguimos para la creación de un archivo simple y la subida del mismo a GitHub en donde podemos practicar sobre la asignatura.
+* Creamos un archivo en bloc de notas con el código para que al colocarlo en un simulador y compilar nos de como salida “hola mundo”.
+
+* Posteriormente creamos una cuenta en GitHub 
+* Creamos un repositorio en la opción new y configuramos el nombre de nuestro archivo 
+https://github.com/Esteff593/Hola-mundo.-
+* Cargamos los archivos desde nuestra computadora
+* Seleccionamos el documento que queremos subir 
+* Confirmamos los cambios 
+
+
+
+      
+
+
+
+
